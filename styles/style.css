@@ -232,6 +232,15 @@ line-height: 26px;
 /* gallery img */
 
 
+
+.gallery_section{
+
+  margin-left: 300px;
+}
+
+
+
+
 .gallery-box {
   display: flex;
   margin: 0px 70px 0px 70px;
@@ -855,6 +864,10 @@ margin-top: 15px;
   top: 88px;
   }
 
+  .gallery_section{
+    margin: 0 auto;
+  }
+
   /* secound part */
 
   .all {
@@ -1019,7 +1032,7 @@ margin-top: 15px;
 
 }
   .disbgimg {
-      background-image: url(./Images/dis-1.png);
+      background-image: url('../Images/dis-1.png');
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
